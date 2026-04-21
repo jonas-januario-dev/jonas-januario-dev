@@ -52,7 +52,7 @@ utilizando metodologias práticas e inovadoras.
 
 ## 📫 Contato
 
-📧 Email: seuemail@email.com  
+📧 Email: januariojonas@gmail.com  
 📱 WhatsApp: (opcional)  
 🌐 Futuro portfólio online em desenvolvimento...
 
