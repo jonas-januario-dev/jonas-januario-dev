@@ -28,8 +28,15 @@ Além disso, atuo com ensino e projetos educacionais, sempre buscando unir **tec
 - 🔌 Arduino | ESP32  
 - 📡 LoRa (comunicação de longo alcance)  
 - 🔥 Firebase  
-- 🛠️ Git e GitHub  
+- 🛠️ Git e GitHub
+- 
+## 🚀 Tecnologias
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Arduino](https://img.shields.io/badge/Arduino-green)
+![Git](https://img.shields.io/badge/Git-red)
 ---
 
 ## 📊 Projetos em destaque
