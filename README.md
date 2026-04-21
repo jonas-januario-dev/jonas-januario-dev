@@ -29,14 +29,7 @@ Além disso, atuo com ensino e projetos educacionais, sempre buscando unir **tec
 - 📡 LoRa (comunicação de longo alcance)  
 - 🔥 Firebase  
 - 🛠️ Git e GitHub
-- 
-## 🚀 Tecnologias
-
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Arduino](https://img.shields.io/badge/Arduino-green)
-![Git](https://img.shields.io/badge/Git-red)
+  
 ---
 
 ## 📊 Projetos em destaque
@@ -56,6 +49,19 @@ Atuar na área de educação tecnológica, contribuindo para a formação de nov
 utilizando metodologias práticas e inovadoras.
 
 ---
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonas-januario-dev&show_icons=true&theme=default)
+
+
+## 📌 Projetos em destaque
+
+🚧 Em construção...
+
+- 🔜 Dashboard com dados de sensores (LoRa)
+- 🔜 Aplicação web para louvor
+- 🔜 Sistema de monitoramento ambiental
+
 
 ## 📫 Contato
 
@@ -70,3 +76,10 @@ utilizando metodologias práticas e inovadoras.
 > "A tecnologia só faz sentido quando transforma vidas."
 
 ---
+## 🚀 Tecnologias
+
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Arduino](https://img.shields.io/badge/Arduino-green)
+![Git](https://img.shields.io/badge/Git-red)
